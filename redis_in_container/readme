@@ -1,8 +1,0 @@
-# 1. Prerequisite
-
-$ docker pull redis
-$ sudo docker run --name my-redis-container -d redis
-
-# 2. Launch container and link it to the running redis container
-
-$ docker run --link my-redis-container:redis -p 4000:4000 --rm -it lifa08/python_web_server_redis
