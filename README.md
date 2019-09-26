@@ -15,4 +15,4 @@ Implemented in **redis_in_container**
 This method is simple and safe.
 
 
-*Note:* in the first method inside file app.py Redis(host="**localhost**"...., while in the second method, Redis(host="**redis**"
+**Note:** in the first method inside file app.py Redis(host="**localhost**"..., while in the second method, Redis(host="**redis**"...

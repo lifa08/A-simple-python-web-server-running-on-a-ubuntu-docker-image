@@ -8,4 +8,4 @@
 
 ## Launch python web application container and link it to above running redis container
 
-`$ docker run --link my-redis-container:redis -p 4000:4000 --rm -it lifa08/python_web_server_redis
+`$ docker run --link my-redis-container:redis -p 4000:4000 --rm -it lifa08/python_web_server_redis`

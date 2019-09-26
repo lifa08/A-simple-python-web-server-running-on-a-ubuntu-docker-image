@@ -13,4 +13,4 @@
 * Open a terminal and run `$ docker ps` to get the container id
 `$ docker exec -it container id bash` 
 
-* Inside the docker image run `# redis-server /etc/redis/6379.conf
+* Inside the docker image run `# redis-server /etc/redis/6379.conf`
